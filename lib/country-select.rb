@@ -34,7 +34,7 @@ module ActionView
       end
 
       # All the countries included in the country_options output.
-      COUNTRIES = {"AF"=>"Afghanistan", "AX"=>"Åland Islands", "AL"=>"Albania", "DZ"=>"Algeria", "AS"=>"American Samoa", 
+      COUNTRIES = {"N/A"=>"-","AF"=>"Afghanistan", "AX"=>"Åland Islands", "AL"=>"Albania", "DZ"=>"Algeria", "AS"=>"American Samoa", 
                   "AD"=>"Andorra", "AO"=>"Angola", "AI"=>"Anguilla", "AQ"=>"Antarctica", "AG"=>"Antigua and Barbuda", 
                   "AR"=>"Argentina", "AM"=>"Armenia", "AW"=>"Aruba", "AU"=>"Australia", "AT"=>"Austria", "AZ"=>"Azerbaijan", 
                   "BS"=>"Bahamas", "BH"=>"Bahrain", "BD"=>"Bangladesh", "BB"=>"Barbados", "BY"=>"Belarus", "BE"=>"Belgium", 
